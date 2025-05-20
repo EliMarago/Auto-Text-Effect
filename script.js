@@ -10,6 +10,7 @@ const quotes = [
   "Your limitation it's only your imagination.",
   "Push yourself, because no one else is going to do it for you.",
   "Dream it. Wish it. Do it.",
+  "You are never too old to set another goal or to dream a new dream.",
   "Success doesn’t just find you. You have to go out and get it.",
 ];
 let text = quotes[Math.floor(Math.random() * quotes.length)];
